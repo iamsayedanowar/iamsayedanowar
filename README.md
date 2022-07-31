@@ -1,4 +1,7 @@
+<a href="#"><img width="100%" height="auto" src="https://github.com/sayedanowar/sayedanowar/blob/main/BG.png" height="175px"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sayed Anowar</h1>
+
 <h3 align="center">A Passionate Python Programmer From India</h3>
 
 
