@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedanowar&label=Visitors&color=000000&style=flat" alt="sayedanowar" /> </p>
+
 <a href="#"><img width="100%" height="auto" src="https://github.com/sayedanowar/sayedanowar/blob/main/BG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sayed Anowar</h1>
@@ -29,6 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedanowar&show_icons=true&theme=onedark&bg_color=0d1117&locale=en" alt="sayedanowar" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedanowar&show_icons=true&theme=onedark&bg_color=0d1117&locale=en&layout=compact" alt="sayedanowar" /></p>
-
-## Views :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedanowar&label=Visitors&color=000000&style=flat" alt="sayedanowar" /> </p>
