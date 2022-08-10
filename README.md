@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedanowar&label=Visitors&color=000000&style=flat" alt="sayedanowar" /> </p>
 
-<a href="#"><img width="100%" height="auto" src="https://github.com/sayedanowar/sayedanowar/blob/main/Untitled-1.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/sayedanowar/sayedanowar/blob/main/Header.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sayed Anowar</h1>
 <h3 align="center">A Passionate Python Programmer From India</h3>
