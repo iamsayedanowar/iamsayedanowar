@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedanowar&label=Visitors&color=000000&style=flat" alt="sayedanowar" /> </p>
 
-<p align="center"> <a href="#"><img width="57%" height="57%" src="https://github.com/sayedanowar/sayedanowar/blob/main/Background.svg"/></a> </p>
+<p align="center"> <a href="#"><img width="57%" height="57%" src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Background.svg"/></a> </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sayed Anowar</h1>
 <h3 align="center">A Passionate Python Programmer From India</h3>
@@ -18,13 +18,13 @@
 - 😜 Fun fact **CS Student**
 
 <h3 align="left">Languages and Framework :</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/HTML.svg" alt="html5" width="37" height="37"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/CSS.svg" alt="css3" width="37" height="37"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/HTML.svg" alt="html5" width="37" height="37"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/CSS.svg" alt="css3" width="37" height="37"/> </a> </p>
 
 <h3 align="left">Tools :</h3>
-<p align="left"> <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/sayedanowar/sayedanowar/blob/main/VSCode.svg" alt="VSCode" height="35" width="35" /></a> </p>
+<p align="left"> <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/VSCode.svg" alt="VSCode" height="35" width="35" /></a> </p>
 
 <h3 align="left">Graphic Design :</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/photoshop.html?promoid=RBS7NL7F&mv=other" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Photoshop.svg" alt="photoshop" width="35" height="35"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Illustrator.svg" alt="illustrator" width="35" height="35"/> </a> </p>
+<p align="left"> <a href="https://www.adobe.com/in/products/photoshop.html?promoid=RBS7NL7F&mv=other" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Photoshop.svg" alt="photoshop" width="35" height="35"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Illustrator.svg" alt="illustrator" width="35" height="35"/> </a> </p>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
