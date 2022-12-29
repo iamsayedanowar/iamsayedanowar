@@ -36,6 +36,6 @@
 <h3 align="left">My GitHub Stats :</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedanowar&show_icons=true&theme=onedark&bg_color=0d1117&locale=en" alt="sayedanowar" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedanowar&show_icons=true&theme=onedark&bg_color=0d1117&locale=en&layout=compact" alt="sayedanowar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedanowar&show_icons=true&theme=onedark&bg_color=0d1117&locale=en&layout=compact" alt="sayedanowar" /></p>
 
 <p>&nbsp;<a href="http://www.github.com/sayedanowar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedanowar&bg_color=0d1117&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
