@@ -34,7 +34,7 @@
 </p>
 
 <h3 align="left">My GitHub Stats :</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedanowar&show_icons=true&theme=onedark&bg_color=0d1117&locale=en" alt="sayedanowar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedanowar&show_icons=true&theme=onedark&bg_color=0d1117&locale=en" alt="sayedanowar" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedanowar&show_icons=true&theme=onedark&bg_color=0d1117&locale=en&layout=compact" alt="sayedanowar" /></p>
 
