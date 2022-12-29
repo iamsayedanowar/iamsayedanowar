@@ -34,8 +34,8 @@
 </p>
 
 <h3 align="left">My GitHub Stats :</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedanowar&show_icons=true&theme=onedark&bg_color=0d1117&locale=en" alt="sayedanowar" /></p>
+<p><a href="http://www.github.com/sayedanowar"><img src="https://github-readme-stats.vercel.app/api?username=sayedanowar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ef4444&icon_color=22c55e&bg_color=0d1117" alt="sayedanowar's GitHub stats" /></a></p>
 
-<p><a href="https://github.com/sayedanowar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedanowar&langs_count=10&title_color=e3be79&text_color=ffffff&icon_color=3382ed&bg_color=0d1117&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" /></a></p>
+<p><a href="https://github.com/sayedanowar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedanowar&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=0d1117&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a></p>
 
-<p><a href="http://www.github.com/sayedanowar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedanowar&bg_color=0d1117&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
+<p><a href="http://www.github.com/sayedanowar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedanowar&bg_color=0d1117&color=ffffff&line=22c55e&point=ffffff&area_color=181824&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
