@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedanowar&label=Visitors&color=000000&style=flat" alt="sayedanowar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedanowar&label=Views&color=0d1117&style=flat-square" alt="sayedanowar" /> </p>
 
 <p align="center"> <a href="#"><img width="57%" height="57%" src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Background.svg"/></a> </p>
 
@@ -38,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedanowar&show_icons=true&theme=onedark&hide_border=true&bg_color=0d1117&locale=en&layout=compact" alt="sayedanowar" /></p>
 
+<h3 align="left"></h3>
 
-
-<p align="left"><a href="http://www.github.com/sayedanowar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedanowar&bg_color=0d1117&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
+<a href="http://www.github.com/sayedanowar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedanowar&bg_color=0d1117&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
