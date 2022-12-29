@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **[Say Hi 👋](mailto:iamsayedanowar@gmail.com?subject=Hi%20Buddy%20&body=Hello%20😊)**
+- 📫 How to reach me **[Say Hi 👋](mailto:iamsayedanowar@gmail.com?subject=Hi%20Buddy)**
 
 - 😜 Fun fact **CS Student**
 
