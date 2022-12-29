@@ -26,11 +26,11 @@
 <h3 align="left">Graphic Design :</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/photoshop.html?promoid=RBS7NL7F&mv=other" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Photoshop.svg" alt="photoshop" width="35" height="35"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Illustrator.svg" alt="illustrator" width="35" height="35"/> </a> </p>
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left">Connect With Me :</h3>
 <p align="left">
-<a href="https://fb.com/iamsayedanowar786" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="iamsayedanowar786" height="30" width="40" /></a>
-<a href="https://instagram.com/sayedanowar786" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="sayedanowar786" height="30" width="40" /></a>
-<a href="https://twitter.com/sayedanowar786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayedanowar786" height="30" width="40" /></a>
+<a href="https://fb.com/imsayedanowar786" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="imsayedanowar786" height="33" width="43" /></a>
+<a href="https://instagram.com/sayedanowar786" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="sayedanowar786" height="33" width="43" /></a>
+<a href="https://twitter.com/sayedanowar786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayedanowar786" height="33" width="43" /></a>
 </p>
 
 <h3 align="left">My GitHub Stats :</h3>
