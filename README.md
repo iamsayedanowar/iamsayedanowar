@@ -24,7 +24,7 @@
 <p align="left"> <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/VSCode.svg" alt="VSCode" height="35" width="35" /></a> </p>
 
 <h3 align="left">Graphic Design :</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/photoshop.html?promoid=RBS7NL7F&mv=other" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Photoshop.svg" alt="photoshop" width="35" height="35"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Illustrator.svg" alt="illustrator" width="35" height="35"/> </a> </p>
+<p align="left"> <a href="https://www.adobe.com/in/products/photoshop.html?promoid=RBS7NL7F&mv=other" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Photoshop.svg" alt="photoshop" width="35" height="35"/> </a>&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Illustrator.svg" alt="illustrator" width="35" height="35"/> </a> </p>
 
 <h3 align="left">Connect With Me :</h3>
 <p align="left">
