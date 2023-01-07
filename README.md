@@ -7,7 +7,7 @@
 
 ## About Me :
 
-- 🌱 I’m currently learning **Python (Advanced)**
+- 🌱 I’m currently learning **Django**
 
 - 🤝 I’m looking to collaborate on **GitHub**
 
