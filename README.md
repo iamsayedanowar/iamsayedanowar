@@ -1,4 +1,10 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedanowar&label=Views&color=000000&style=flat-square" alt="sayedanowar" /> </p>
+<div align=center><h3><b>📍 Profile Visitor Count</b></h3></div>
+
+<br>
+
+<p align="center"><img src="https://profile-counter.glitch.me/sayedanowar/count.svg"/></p>
+
+<br>
 
 <p align="center"> <a href="#"><img width="57%" height="57%" src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Background.svg"/></a> </p>
 
