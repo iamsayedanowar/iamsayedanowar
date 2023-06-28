@@ -44,4 +44,4 @@
 
 <p><a href="https://github.com/sayedanowar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedanowar&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=0d1117&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a></p>
 
-<p><a href="http://www.github.com/sayedanowar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedanowar&bg_color=0d1117&color=ffffff&line=22c55e&point=ffffff&area_color=181824&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
+[![Sayed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayedanowar&bg_color=0d1117&color=ffffff&line=32f569&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
