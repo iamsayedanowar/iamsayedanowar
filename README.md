@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="#"><img width="57%" height="57%" src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Background.svg"/></a> </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sayed Anowar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="27" height="27" />, I'm Sayed Anowar</h1>
 <h3 align="center">A Passionate Python Programmer From India</h3>
 
 ## About Me :
