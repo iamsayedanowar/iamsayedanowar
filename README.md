@@ -40,8 +40,9 @@
 </p>
 
 <h3 align="left">My GitHub Stats :</h3>
-<p><a href="http://www.github.com/sayedanowar"><img src="https://github-readme-stats.vercel.app/api?username=sayedanowar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ef4444&icon_color=22c55e&bg_color=0d1117" alt="sayedanowar's GitHub stats" /></a></p>
 
-<p><a href="https://github.com/sayedanowar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedanowar&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=0d1117&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedanowar&show_icons=true&theme=dark&title_color=21e46b&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact" alt="sayedanowar" /></p>
+
+<p><a href="http://www.github.com/sayedanowar"><img src="https://github-readme-stats.vercel.app/api?username=sayedanowar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ef4444&icon_color=22c55e&bg_color=0d1117" alt="sayedanowar's GitHub stats" /></a></p>
 
 [![Sayed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayedanowar&bg_color=0d1117&color=ffffff&line=32f569&point=ffffff&area=true&hide_border=true)](https://github.com/sayedanowar)
