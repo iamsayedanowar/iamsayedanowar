@@ -115,7 +115,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sayedanowar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedanowar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=sayedanowar&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedanowar&radius=16&area=true&order=5&bg_color=151515&color=FFFFFF&title_color=FFFFFF&line=32F569&point=FFFFFF&area_color=CEFDDB&hide_border=true" height="360" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedanowar&radius=16&area=true&order=5&bg_color=151515&color=FFFFFF&title_color=FFFFFF&line=32F569&point=FFFFFF&area_color=CEFDDB&hide_border=true" height="340" alt="activity-graph graph"  />
 </div>
 
 ###
