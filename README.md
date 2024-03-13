@@ -1,48 +1,121 @@
-<div align=center><h3><b>📍 Profile Visitor Count</b></h3></div>
+<h3 align="center">👀 Profile Views</h3>
 
-<br>
+###
 
-<p align="center"><img src="https://profile-counter.glitch.me/sayedanowar/count.svg"/></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sayedanowar/count.svg?"  />
+</div>
 
-<br>
+###
 
-<p align="center"> <a href="#"><img width="57%" height="57%" src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Background.svg"/></a> </p>
+<div align="center">
+  <img height="400" src="https://sayedanowar.vercel.app/static/home/pp.webp"  />
+</div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="27" height="27" />, I'm Sayed Anowar</h1>
-<h3 align="center">A Passionate Python Programmer From India</h3>
+###
 
-## About Me :
+<h1 align="center">Hi, I'm Sayed Anowar</h1>
 
-- 🌱 I’m currently learning **Django**
+###
 
-- 🤝 I’m looking to collaborate on **GitHub**
+<h3 align="center">A Passionate Programmer From India</h3>
 
-- 💬 Ask me about **Python**
+###
 
-- 📫 How to reach me **[Say Hi 👋](mailto:sa.contact.email@gmail.com?subject=Hi%20Buddy)**
+<h2 align="left">About Me :</h2>
 
-- 😜 Fun fact **CS Student**
+###
 
-<h3 align="left">Languages and Framework :</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/HTML.svg" alt="html5" width="37" height="37"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/CSS.svg" alt="css3" width="37" height="37"/> </a> </p>
+<p align="left">Computer Science Student Skilled In HTML, CSS, JavaScript, Python (Django) And Bootstrap. Proficient In Photoshop And Illustrator. Ready To Contribute To Web Development And Design Projects.</p>
 
-<h3 align="left">Tools :</h3>
-<p align="left"> <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/VSCode.svg" alt="VSCode" height="35" width="35" /></a> </p>
+###
 
-<h3 align="left">Graphic Design :</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/photoshop.html?promoid=RBS7NL7F&mv=other" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Photoshop.svg" alt="photoshop" width="35" height="35"/> </a>&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sayedanowar/sayedanowar/blob/main/Icons/Illustrator.svg" alt="illustrator" width="35" height="35"/> </a> </p>
+<p align="left">🤝 I’m looking to collaborate on GitHub</p>
 
-<h3 align="left">Connect With Me :</h3>
-<p align="left">
-<a href="https://fb.com/iamsayedanowar" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="iamsayedanowar" height="33" width="43" /></a>
-<a href="https://www.instagram.com/iamsayedanowar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="sayedanowar786" height="33" width="43" /></a>
-<a href="https://twitter.com/IamSayedAnowar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayedanowar786" height="33" width="43" /></a>
-</p>
+###
 
-<h3 align="left">My GitHub Stats :</h3>
+<p align="left">💬 Ask me about Web Development</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedanowar&show_icons=true&theme=dark&title_color=21e46b&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact" alt="sayedanowar" /></p>
+###
 
-<p><a href="http://www.github.com/sayedanowar"><img src="https://github-readme-stats.vercel.app/api?username=sayedanowar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ef4444&icon_color=22c55e&bg_color=0d1117" alt="sayedanowar's GitHub stats" /></a></p>
+<h2 align="left">Languages and Framework :</h2>
 
-[![Sayed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayedanowar&bg_color=0d1117&color=ffffff&line=32f569&point=ffffff&area=true&hide_border=true)](https://github.com/sayedanowar)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" alt="django logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="figma logo"  />
+</div>
+
+###
+
+<h2 align="left">Tools :</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="left">Graphic Design :</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ps" height="36" alt="adobephotoshop logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=ai" height="36" alt="adobeillustrator logo"  />
+</div>
+
+###
+
+<h2 align="left">Connect With Me :</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/iamsayedanowar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="46" height="32" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/iamsayedanowar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="32" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/IamSayedAnowar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="32" alt="twitter logo"  />
+  </a>
+  <a href="mailto:dev.sayedanowar@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="32" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">My GitHub Stats :</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedanowar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedanowar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sayedanowar&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedanowar&radius=16&area=true&order=5&bg_color=151515&color=FFFFFF&title_color=FFFFFF&line=32F569&point=FFFFFF&area_color=CEFDDB&hide_border=true" height="400" alt="activity-graph graph"  />
+</div>
+
+###
