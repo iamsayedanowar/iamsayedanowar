@@ -100,7 +100,7 @@
   <a href="https://twitter.com/IamSayedAnowar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="28" alt="twitter logo"  />
   </a>
-  <a href="dev.sayedanowar@gmail.com" target="_blank">
+  <a href="mailto:dev.sayedanowar@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="28" alt="gmail logo"  />
   </a>
 </div>
