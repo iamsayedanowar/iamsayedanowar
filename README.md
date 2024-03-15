@@ -8,11 +8,21 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://sayedanowar.vercel.app/static/home/pp.webp"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Sayed Anowar</h1>
 
 ###
 
 <h3 align="center">A Passionate Programmer From India</h3>
+
+###
+
+<h3 align="left">About Me :</h3>
 
 ###
 
@@ -69,10 +79,18 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="28" height="28" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="28" height="28" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="28" height="28" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="28" height="28" alt="gmail logo"  />
+  <a href="https://www.facebook.com/iamsayedanowar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" height="28" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/iamsayedanowar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="28" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/IamSayedAnowar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="28" alt="twitter logo"  />
+  </a>
+  <a href="dev.sayedanowar@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="28" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
