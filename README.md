@@ -26,6 +26,18 @@
 
 ###
 
+- 🤝 I’m looking to collaborate on **GitHub**
+
+- 👨‍💻 All of my projects are available at [sayedanowar.vercel.app](https://sayedanowar.vercel.app/)
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **dev.sayedanowar@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://sayedanowar-cdn-server.netlify.app/pdf/sa-resume.pdf)
+
+###
+
 <h3 align="left">Languages and Framework :</h3>
 
 ###
