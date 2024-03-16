@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **dev.sayedanowar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://sayedanowar-cdn-server.netlify.app/pdf/sa-resume.pdf)
+- 📄 Know about my experiences [resume](https://sayedanowar-cdn-server.netlify.app/pdf/sa-resume.pdf)
 
 ###
 
