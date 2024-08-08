@@ -28,13 +28,13 @@
 
 - 🤝 I’m looking to collaborate on **GitHub**
 
-- 👨‍💻 All of my projects are available at [sayedanowar.vercel.app](https://sayedanowar.vercel.app/)
+<!--👨‍💻 All of my projects are available at [sayedanowar.vercel.app]()-->
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **dev.sayedanowar@gmail.com**
+<!--📫 How to reach me ****-->
 
-- 📄 Know about my experiences [resume](https://sayedanowar-cdn-server.netlify.app/pdf/sa-resume.pdf)
+<!--📄 Know about my experiences [resume]()-->
 
 ###
 
@@ -91,17 +91,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.facebook.com/iamsayedanowar" target="_blank">
+  <a href="https://www.facebook.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" height="28" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/iamsayedanowar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="28" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/IamSayedAnowar" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="28" alt="twitter logo"  />
-  </a>
-  <a href="mailto:dev.sayedanowar@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="28" alt="gmail logo"  />
   </a>
 </div>
 
