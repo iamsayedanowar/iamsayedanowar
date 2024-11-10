@@ -8,12 +8,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/sayedanowar/Sayed-Anowar/main/static/home/pp.webp?token=GHSAT0AAAAAACV3BB7F4WYDORT7FR3KA5LQZVUMGPQ"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋, I'm Sayed Anowar</h1>
 
 ###
