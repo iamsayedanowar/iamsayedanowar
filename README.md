@@ -22,13 +22,7 @@
 
 - 🤝 I’m looking to collaborate on **GitHub**
 
-<!--👨‍💻 All of my projects are available at [sayedanowar.vercel.app]()-->
-
 - 💬 Ask me about **Web Development**
-
-<!--📫 How to reach me ****-->
-
-<!--📄 Know about my experiences [resume]()-->
 
 ###
 
@@ -78,24 +72,6 @@
 
 ###
 
-<h3 align="left">Connect With Me :</h3>
-
-###
-
-<div align="left">
-  <!--<a href="https://www.facebook.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" height="28" alt="facebook logo"  />
-  </a>-->
-  <a href="https://www.instagram.com/iamsayedanowar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="28" alt="instagram logo"  />
-  </a>
-  <!--<a href="https://twitter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="28" alt="twitter logo"  />
-  </a>-->
-</div>
-
-###
-
 <h3 align="left">My GitHub Stats :</h3>
 
 ###
@@ -103,7 +79,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sayedanowar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedanowar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sayedanowar&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
