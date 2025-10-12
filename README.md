@@ -62,3 +62,7 @@
 </div>
 
 ###
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamsayedanowar&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&theme=dark&ring_color=80ff9b&text_color=cccccc&border_radius=16&border_color=808080" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsayedanowar&hide_title=true&layout=compact&theme=dark&text_color=cccccc&border_radius=16&border_color=808080" />
