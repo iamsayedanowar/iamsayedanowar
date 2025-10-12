@@ -67,4 +67,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsayedanowar&hide_title=true&layout=compact&theme=dark&text_color=cccccc&border_radius=16&border_color=808080" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iamsayedanowar&theme=dark&border_radius=16&date_format=j%20M%5B%20Y%5D&border=808080&ring=80FF9B&fire=80FF9B&currStreakLabel=80FF9B" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iamsayedanowar&theme=dark&border_radius=16&date_format=j%20M%5B%20Y%5D&border=808080&ring=80FF9B&fire=80FF9B&currStreakLabel=80FF9B" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsayedanowar&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true&radius=16&hide_title=true" />
