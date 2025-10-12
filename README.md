@@ -69,4 +69,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=iamsayedanowar&theme=dark&border_radius=16&date_format=j%20M%5B%20Y%5D&border=808080&ring=80FF9B&fire=80FF9B&currStreakLabel=80FF9B" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsayedanowar&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true&radius=16&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsayedanowar&bg_color=0d0d0d&color=cccccc&line=26a642&point=cccccc&area=true&radius=16&hide_title=true&area_color=26a642&border_color=cccccc" />
