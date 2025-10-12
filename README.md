@@ -7,7 +7,7 @@
 
 ###
 
-- 🌱 I’m currently learning **JavaScript, React, Next.js, React Native**
+- 🌱 I’m currently learning **JavaScript, TypeScript, React, Next.js, React Native**
 
 - 🤝 I’m looking to collaborate on **GitHub**
 
