@@ -16,3 +16,5 @@
 - 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **dev.sayedanowar@gmail.com**
+
+<img src="https://raw.githubusercontent.com/iamsayedanowar/iamsayedanowar/output/snake.svg" alt="Snake animation" />
