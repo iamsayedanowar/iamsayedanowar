@@ -91,6 +91,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://sayedanowar.netlify.app/assets/svg/bootstrap-studio.svg" height="40" alt="bootstrap studio"  />
 </div>
 
 ###
