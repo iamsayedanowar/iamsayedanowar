@@ -35,7 +35,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo"  />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
@@ -47,7 +46,6 @@
   <img src="https://sayedanowar.netlify.app/assets/svg/copilot.svg" height="40" alt="copilot"  />
   <img src="https://sayedanowar.netlify.app/assets/svg/chatgpt.svg" height="40" alt="chatgpt"  />
   <img src="https://sayedanowar.netlify.app/assets/svg/claude.svg" height="40" alt="claude"  />
-  <br>
   <img src="https://sayedanowar.netlify.app/assets/svg/gemini.svg" height="40" alt="gemini"  />
   <img src="https://sayedanowar.netlify.app/assets/svg/grok.svg" height="40" alt="grok"  />
   <img src="https://sayedanowar.netlify.app/assets/svg/perplexity.svg" height="40" alt="perplexity"  />
